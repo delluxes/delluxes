@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delluxes
+- 👀 I’m interested in Project management and game dev
+- 🌱 I’m currently learning python and unrial engine
